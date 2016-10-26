@@ -8,7 +8,8 @@ public class test {
 	}
 	
 	public static Integer alCuadrado(int a){
-		return a^2;
+		Integer result = a*a;
+		return result;
 	}
 	
 }
